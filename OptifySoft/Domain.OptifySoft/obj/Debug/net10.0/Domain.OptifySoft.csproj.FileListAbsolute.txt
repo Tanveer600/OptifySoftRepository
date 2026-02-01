@@ -1,0 +1,11 @@
+C:\OptifySoft\Domain.OptifySoft\bin\Debug\net10.0\Domain.OptifySoft.deps.json
+C:\OptifySoft\Domain.OptifySoft\bin\Debug\net10.0\Domain.OptifySoft.dll
+C:\OptifySoft\Domain.OptifySoft\bin\Debug\net10.0\Domain.OptifySoft.pdb
+C:\OptifySoft\Domain.OptifySoft\obj\Debug\net10.0\Domain.OptifySoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\OptifySoft\Domain.OptifySoft\obj\Debug\net10.0\Domain.OptifySoft.AssemblyInfoInputs.cache
+C:\OptifySoft\Domain.OptifySoft\obj\Debug\net10.0\Domain.OptifySoft.AssemblyInfo.cs
+C:\OptifySoft\Domain.OptifySoft\obj\Debug\net10.0\Domain.OptifySoft.csproj.CoreCompileInputs.cache
+C:\OptifySoft\Domain.OptifySoft\obj\Debug\net10.0\Domain.OptifySoft.dll
+C:\OptifySoft\Domain.OptifySoft\obj\Debug\net10.0\refint\Domain.OptifySoft.dll
+C:\OptifySoft\Domain.OptifySoft\obj\Debug\net10.0\Domain.OptifySoft.pdb
+C:\OptifySoft\Domain.OptifySoft\obj\Debug\net10.0\ref\Domain.OptifySoft.dll

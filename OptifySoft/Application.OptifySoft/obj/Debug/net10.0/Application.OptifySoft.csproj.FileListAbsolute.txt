@@ -1,0 +1,15 @@
+C:\OptifySoft\Application.OptifySoft\bin\Debug\net10.0\Application.OptifySoft.deps.json
+C:\OptifySoft\Application.OptifySoft\bin\Debug\net10.0\Application.OptifySoft.dll
+C:\OptifySoft\Application.OptifySoft\bin\Debug\net10.0\Application.OptifySoft.pdb
+C:\OptifySoft\Application.OptifySoft\bin\Debug\net10.0\Domain.OptifySoft.dll
+C:\OptifySoft\Application.OptifySoft\bin\Debug\net10.0\Domain.OptifySoft.pdb
+C:\OptifySoft\Application.OptifySoft\obj\Debug\net10.0\Application.OptifySoft.csproj.AssemblyReference.cache
+C:\OptifySoft\Application.OptifySoft\obj\Debug\net10.0\Application.OptifySoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\OptifySoft\Application.OptifySoft\obj\Debug\net10.0\Application.OptifySoft.AssemblyInfoInputs.cache
+C:\OptifySoft\Application.OptifySoft\obj\Debug\net10.0\Application.OptifySoft.AssemblyInfo.cs
+C:\OptifySoft\Application.OptifySoft\obj\Debug\net10.0\Application.OptifySoft.csproj.CoreCompileInputs.cache
+C:\OptifySoft\Application.OptifySoft\obj\Debug\net10.0\Applicat.5365C921.Up2Date
+C:\OptifySoft\Application.OptifySoft\obj\Debug\net10.0\Application.OptifySoft.dll
+C:\OptifySoft\Application.OptifySoft\obj\Debug\net10.0\refint\Application.OptifySoft.dll
+C:\OptifySoft\Application.OptifySoft\obj\Debug\net10.0\Application.OptifySoft.pdb
+C:\OptifySoft\Application.OptifySoft\obj\Debug\net10.0\ref\Application.OptifySoft.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Application.OptifySoft/Application.OptifySoft.csproj" />
+  <Project Path="Domain.OptifySoft/Domain.OptifySoft.csproj" />
+  <Project Path="Infrastructure.OptifySoft/Infrastructure.OptifySoft.csproj" />
+  <Project Path="OptifySoft/OptifySoft.csproj" />
+</Solution>
