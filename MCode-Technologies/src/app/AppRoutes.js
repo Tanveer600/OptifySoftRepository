@@ -1,4 +1,4 @@
-import React, { Component,Suspense, lazy } from 'react';
+import React, { Component, Suspense, lazy } from 'react';
 import { Switch, Route, Redirect } from 'react-router-dom';
 
 import Spinner from '../app/shared/Spinner';
@@ -29,44 +29,50 @@ const Error500 = lazy(() => import('./error-pages/Error500'));
 const Login = lazy(() => import('./user-pages/Login'));
 const Register1 = lazy(() => import('./user-pages/Register'));
 const Lockscreen = lazy(() => import('./user-pages/Lockscreen'));
-
+const LoginPage = lazy(() => import('./components/usercomponent/LoginPage'));
+const UserPage = lazy(() => import('./user-pages/User.js'));
+const PermissionPage = lazy(() => import('./user-pages/PermissionList.js'));
+const RolePermissionList = lazy(() => import('./user-pages/RolePermissionList.js'));
 const BlankPage = lazy(() => import('./general-pages/BlankPage'));
 
 
 
 
 class AppRoutes extends Component {
-  render () {
+  render() {
     return (
-      <Suspense fallback={<Spinner/>}>
+      <Suspense fallback={<Spinner />}>
         <Switch>
-          <Route exact path="/dashboard" component={ Dashboard } />
+          <Route exact path="/dashboard" component={Dashboard} />
+
+          <Route path="/user/login" component={LoginPage} />
+          <Route path="/user-pages/user" component={UserPage} />
+          <Route path="/user-pages/role-permission-list" component={RolePermissionList} />
+          <Route path="/user-pages/permissionlist" component={PermissionPage} />
+          <Route path="/basic-ui/buttons" component={Buttons} />
+          <Route path="/basic-ui/dropdowns" component={Dropdowns} />
+          <Route path="/basic-ui/typography" component={Typography} />
 
 
-          <Route path="/basic-ui/buttons" component={ Buttons } />
-          <Route path="/basic-ui/dropdowns" component={ Dropdowns } />
-          <Route path="/basic-ui/typography" component={ Typography } />
+          <Route path="/form-Elements/basic-elements" component={BasicElements} />
+
+          <Route path="/tables/basic-table" component={BasicTable} />
 
 
-          <Route path="/form-Elements/basic-elements" component={ BasicElements } />
-
-          <Route path="/tables/basic-table" component={ BasicTable } />
+          <Route path="/icons/mdi" component={Mdi} />
 
 
-          <Route path="/icons/mdi" component={ Mdi } />
+          <Route path="/charts/chart-js" component={ChartJs} />
 
 
-          <Route path="/charts/chart-js" component={ ChartJs } />
+          <Route path="/user-pages/login-1" component={Login} />
+          <Route path="/user-pages/register-1" component={Register1} />
+          <Route path="/user-pages/lockscreen" component={Lockscreen} />
 
+          <Route path="/error-pages/error-404" component={Error404} />
+          <Route path="/error-pages/error-500" component={Error500} />
 
-          <Route path="/user-pages/login-1" component={ Login } />
-          <Route path="/user-pages/register-1" component={ Register1 } />
-          <Route path="/user-pages/lockscreen" component={ Lockscreen } />
-
-          <Route path="/error-pages/error-404" component={ Error404 } />
-          <Route path="/error-pages/error-500" component={ Error500 } />
-
-          <Route path="/general-pages/blank-page" component={ BlankPage } />
+          <Route path="/general-pages/blank-page" component={BlankPage} />
 
 
           <Redirect to="/dashboard" />

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { Form } from 'react-bootstrap';
-export class Login extends Component {
+export class LoginPage extends Component {
   render() {
     return (
       <div>
@@ -10,7 +10,7 @@ export class Login extends Component {
             <div className="col-lg-4 mx-auto">
               <div className="auth-form-light text-left py-5 px-4 px-sm-5">
                 <div className="brand-logo">
-                  <img src={require("../../assets/images/logo.svg")} alt="logo" />
+                  <img src={require("../../../assets/images/logo.svg")} alt="logo" />
                 </div>
                 <h4 className="mr-3">WellCome to OptifySoft Solution</h4>
                 <h6 className="font-weight-light">Sign in to continue.</h6>
@@ -52,4 +52,4 @@ export class Login extends Component {
   }
 }
 
-export default Login
+export default LoginPage
