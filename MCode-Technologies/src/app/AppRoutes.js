@@ -30,6 +30,7 @@ const Login = lazy(() => import('./user-pages/Login'));
 const Register1 = lazy(() => import('./user-pages/Register'));
 const Lockscreen = lazy(() => import('./user-pages/Lockscreen'));
 const LoginPage = lazy(() => import('./components/usercomponent/LoginPage'));
+const Settings = lazy(() => import('./components/Settings'));
 const UserPage = lazy(() => import('./user-pages/User.js'));
 const PermissionPage = lazy(() => import('./user-pages/PermissionList.js'));
 const RolePermissionList = lazy(() => import('./user-pages/RolePermissionList.js'));
@@ -44,7 +45,7 @@ class AppRoutes extends Component {
       <Suspense fallback={<Spinner />}>
         <Switch>
           <Route exact path="/dashboard" component={Dashboard} />
-
+          <Route path="/user/settings" component={Settings} />
           <Route path="/user/login" component={LoginPage} />
           <Route path="/user-pages/user" component={UserPage} />
           <Route path="/user-pages/role-permission-list" component={RolePermissionList} />
