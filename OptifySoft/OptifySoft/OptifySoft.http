@@ -1,0 +1,6 @@
+@OptifySoft_HostAddress = http://localhost:5195
+
+GET {{OptifySoft_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

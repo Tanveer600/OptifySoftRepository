@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E3B6CB-910E-2BE6-68DE-FAB8FE84C1D4}|OptifySoft\\OptifySoft.csproj|c:\\users\\tanveer\\desktop\\optifysoft\\optifysoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E3B6CB-910E-2BE6-68DE-FAB8FE84C1D4}|OptifySoft\\OptifySoft.csproj|solutionrelative:optifysoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEB75D4-BE53-969C-A11B-8B0F0AC4B709}|Application.OptifySoft\\Application.OptifySoft.csproj|c:\\users\\tanveer\\desktop\\optifysoft\\application.optifysoft\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEB75D4-BE53-969C-A11B-8B0F0AC4B709}|Application.OptifySoft\\Application.OptifySoft.csproj|solutionrelative:application.optifysoft\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEB75D4-BE53-969C-A11B-8B0F0AC4B709}|Application.OptifySoft\\Application.OptifySoft.csproj|c:\\users\\tanveer\\desktop\\optifysoft\\application.optifysoft\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEB75D4-BE53-969C-A11B-8B0F0AC4B709}|Application.OptifySoft\\Application.OptifySoft.csproj|solutionrelative:application.optifysoft\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E3B6CB-910E-2BE6-68DE-FAB8FE84C1D4}|OptifySoft\\OptifySoft.csproj|c:\\users\\tanveer\\desktop\\optifysoft\\optifysoft\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E3B6CB-910E-2BE6-68DE-FAB8FE84C1D4}|OptifySoft\\OptifySoft.csproj|solutionrelative:optifysoft\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E3B6CB-910E-2BE6-68DE-FAB8FE84C1D4}|OptifySoft\\OptifySoft.csproj|c:\\users\\tanveer\\desktop\\optifysoft\\optifysoft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D9E3B6CB-910E-2BE6-68DE-FAB8FE84C1D4}|OptifySoft\\OptifySoft.csproj|solutionrelative:optifysoft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13CDC5D-41F5-A74D-6CCF-FBF09EBC80F9}|Infrastructure.OptifySoft\\Infrastructure.OptifySoft.csproj|c:\\users\\tanveer\\desktop\\optifysoft\\infrastructure.optifysoft\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13CDC5D-41F5-A74D-6CCF-FBF09EBC80F9}|Infrastructure.OptifySoft\\Infrastructure.OptifySoft.csproj|solutionrelative:infrastructure.optifysoft\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13CDC5D-41F5-A74D-6CCF-FBF09EBC80F9}|Infrastructure.OptifySoft\\Infrastructure.OptifySoft.csproj|c:\\users\\tanveer\\desktop\\optifysoft\\infrastructure.optifysoft\\repository\\haspasswordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13CDC5D-41F5-A74D-6CCF-FBF09EBC80F9}|Infrastructure.OptifySoft\\Infrastructure.OptifySoft.csproj|solutionrelative:infrastructure.optifysoft\\repository\\haspasswordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEB75D4-BE53-969C-A11B-8B0F0AC4B709}|Application.OptifySoft\\Application.OptifySoft.csproj|c:\\users\\tanveer\\desktop\\optifysoft\\application.optifysoft\\dto\\userdto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEB75D4-BE53-969C-A11B-8B0F0AC4B709}|Application.OptifySoft\\Application.OptifySoft.csproj|solutionrelative:application.optifysoft\\dto\\userdto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEB75D4-BE53-969C-A11B-8B0F0AC4B709}|Application.OptifySoft\\Application.OptifySoft.csproj|c:\\users\\tanveer\\desktop\\optifysoft\\application.optifysoft\\common\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEB75D4-BE53-969C-A11B-8B0F0AC4B709}|Application.OptifySoft\\Application.OptifySoft.csproj|solutionrelative:application.optifysoft\\common\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\OptifySoft\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OptifySoft\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\OptifySoft\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OptifySoft\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAIA3wFgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T17:41:40.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\Application.OptifySoft\\DTO\\UserDto\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "Application.OptifySoft\\DTO\\UserDto\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\Application.OptifySoft\\DTO\\UserDto\\CreateUserDto.cs",
+              "RelativeToolTip": "Application.OptifySoft\\DTO\\UserDto\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T17:31:01.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\OptifySoft\\appsettings.json",
+              "RelativeDocumentMoniker": "OptifySoft\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\OptifySoft\\appsettings.json",
+              "RelativeToolTip": "OptifySoft\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-03T17:09:47.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\Application.OptifySoft\\Common\\Settings\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Application.OptifySoft\\Common\\Settings\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\Application.OptifySoft\\Common\\Settings\\JwtSettings.cs",
+              "RelativeToolTip": "Application.OptifySoft\\Common\\Settings\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T17:08:33.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\Infrastructure.OptifySoft\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.OptifySoft\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\Infrastructure.OptifySoft\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure.OptifySoft\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwEcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T11:38:45.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\Application.OptifySoft\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application.OptifySoft\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\Application.OptifySoft\\Services\\UserService.cs",
+              "RelativeToolTip": "Application.OptifySoft\\Services\\UserService.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAIsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T11:03:52.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\Application.OptifySoft\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application.OptifySoft\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\Application.OptifySoft\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Application.OptifySoft\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAArwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:37:49.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\OptifySoft\\Program.cs",
+              "RelativeDocumentMoniker": "OptifySoft\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\OptifySoft\\Program.cs",
+              "RelativeToolTip": "OptifySoft\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T10:59:26.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HasPasswordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\Infrastructure.OptifySoft\\Repository\\HasPasswordRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.OptifySoft\\Repository\\HasPasswordRepository.cs",
+              "ToolTip": "C:\\Users\\Tanveer\\Desktop\\OptifySoft\\Infrastructure.OptifySoft\\Repository\\HasPasswordRepository.cs",
+              "RelativeToolTip": "Infrastructure.OptifySoft\\Repository\\HasPasswordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T17:56:57.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
